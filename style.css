@@ -6,3 +6,26 @@
 .nav-item a:hover {
     color: red;
 }
+
+.carousel-caption h1 {
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.carousel-caption p {
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.carousel-caption a {
+    font-size: 16px;
+    font-weight: 700;
+    color: #3F87F5;
+    padding: 15px 60px;
+}
+
+.carousel-control-prev-icon {
+    color: #ffffff;
+}
